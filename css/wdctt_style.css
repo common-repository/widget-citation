@@ -1,0 +1,16 @@
+/* Styles for Widget Citation Front End */
+
+
+div.wdctt_widget p {
+
+	color: inherit;
+    font-size: inherit;
+
+}
+
+div.wdctt_widget span.wdctt_quote {
+	
+    float: left;
+    margin-right: 10px;
+    color: orange;
+}
